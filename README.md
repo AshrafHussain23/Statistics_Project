@@ -1,1 +1,3 @@
-# Statistics_Project
+# Part - B
+
+# Logistic Regression Model
