@@ -20,3 +20,14 @@
 6. Holt-Winters (Triple Exponential)  Model
 7. ARIMA Model
 8. SARIMA Model
+
+# Part - B
+
+# Logistic Regression Model
+
+1. EDA
+2. Improve the mode with intermediate Models
+3. Final Model
+4. Residual Check
+5. Linearity Check
+6. VIF
